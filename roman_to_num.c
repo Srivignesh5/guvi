@@ -5,8 +5,7 @@ void main()
 {
    char rom[30];
    int a[30], l, i, k, dec;
-
-   printf("Enter the roman number\n");
+  printf("Enter the roman number\n");
    scanf("%s", &rom);
    l =strlen(rom);
    for(i = 0; i < l; i++)
