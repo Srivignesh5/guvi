@@ -44,5 +44,4 @@ void main()
       }
    }
    printf("decimal equivalent is %d", k);
- 
-}
+ }
