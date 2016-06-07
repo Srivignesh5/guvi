@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(void) {
-	int i,l;
+	int i,l; 
 	  char a[100],te;
 		scanf("%s",a);
 		l=strlen(a);
